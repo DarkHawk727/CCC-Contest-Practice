@@ -1,5 +1,5 @@
 # CCC-Contest-Practise
-This is a repository for all of my CCC Competition Practise attempts
+This is a repository for all of my CCC Competition Practise attempts | All work is done in Java
 # Completed Contests
 | Contest Name  | Questions Completed |
 | ------------- | ------------- |
