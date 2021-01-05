@@ -1,26 +1,25 @@
 # CCC-Contest-Practise
 This is a repository for all of my CCC Competition Practise attempts | All work is done in Java
 # Completed Contests
-| Contest Name  | Questions Completed |
-| ------------- | ------------- |
-| CCC '20 J | 3/5  |
-| CCC '19 J | Unattempted |
-| CCC '18 J | Unattempted |
-| CCC '17 J | Unattempted |
-| CCC '16 J | Unattempted |
-| CCC '15 J | Unattempted |
-| CCC '14 J | Unattempted |
-| CCC '13 J | Unattempted |
-| CCC '12 J | Unattempted |
-| CCC '11 J | Unattempted |
-| CCC '10 J | Unattempted |
-| CCC '09 J | Unattempted |
-| CCC '08 J | Unattempted |
-| CCC '07 J | Unattempted |
-| CCC '06 J | Unattempted |
-| CCC '05 J | Unattempted |
-| CCC '04 J | Unattempted |
-| CCC '03 J | Unattempted |
-| CCC '02 J | Unattempted |
-| CCC '01 J | Unattempted |
-| CCC '00 J | Unattempted |
+|Contest Year|Junior|Senior|
+| CCC '20  |  | | |
+| CCC '19  || | |
+| CCC '18  || | |
+| CCC '17  || | |
+| CCC '16  || | |
+| CCC '15  || | |
+| CCC '14  || | |
+| CCC '13  || | |
+| CCC '12  || | |
+| CCC '11  || | |
+| CCC '10  || | |
+| CCC '09  || | |
+| CCC '08  || | |
+| CCC '07  || | |
+| CCC '06  || | |
+| CCC '05  | | | |
+| CCC '04  || | |
+| CCC '03  || | |
+| CCC '02  || | |
+| CCC '01  | | | |
+| CCC '00  | | | |
