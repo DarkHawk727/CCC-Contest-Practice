@@ -1,7 +1,7 @@
 # CCC-Contest-Practise
 This is a repository for all of my CCC Competition Practise attempts | All work is done in Java
 # Completed Contests
-|Contest Year|Junior|Senior|Junior Score|Senior Score|Time Completed|
+|Contest Year|Junior|Senior|Junior Score|Senior Score|Date Completed|
 |------------|------|------|------------|------------|--------------|
 | CCC '20    |      |      |            |            |              |
 | CCC '19    |      |      |            |            |              |
