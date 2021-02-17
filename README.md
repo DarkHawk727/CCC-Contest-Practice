@@ -3,6 +3,7 @@ This is a repository for all of my CCC Competition Practise attempts | All work 
 # Completed Contests
 |Contest Year|Junior|Senior|Junior Score|Senior Score|Date Completed|
 |------------|------|------|------------|------------|--------------|
+| CCC '21    |  3/5 |      |  46/75     |            |              |
 | CCC '20    |      |      |            |            |              |
 | CCC '19    |      |      |            |            |              |
 | CCC '18    |      |      |            |            |              |
