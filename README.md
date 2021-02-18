@@ -7,7 +7,7 @@ This is a repository for all of my CCC Competition Practise attempts | All work 
 | CCC '20    |      |      |      |         |         |      |      |      |
 | CCC '19    |      |      |      |         |         |      |      |      |
 | CCC '18    |      |      |      |         |         |      |      |      |
-| CCC '17    |      |      |      |         |         |      |      |      |
+| CCC '17    |:heavy_check_mark:|      |      |         |         |      |      |      |
 | CCC '16    |      |      |      |         |         |      |      |      |
 | CCC '15    |      |      |      |         |         |      |      |      |
 | CCC '14    |      |      |      |         |         |      |      |      |
