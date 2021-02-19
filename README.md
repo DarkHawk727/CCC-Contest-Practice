@@ -8,7 +8,7 @@ This is a repository for all of my CCC Competition Practise attempts | All work 
 | CCC '19    |:heavy_check_mark:|      |      |         |         |      |      |      |      |      |
 | CCC '18    |      |      |      |         |         |      |      |      |
 | CCC '17    |:heavy_check_mark:|:heavy_check_mark:|      |         |         |      |      |      |      |      |
-| CCC '16    |      |      |      |         |         |      |      |      |      |      |
+| CCC '16    |:heavy_check_mark:|      |      |         |         |      |      |      |      |      |
 | CCC '15    |      |      |      |         |         |      |      |      |      |      |
 | CCC '14    |:heavy_check_mark:|:heavy_check_mark:|      |         |         |      |      |      |      |      |
 | CCC '13    |:heavy_check_mark:|      |      |         |         |      |      |      |      |      |
