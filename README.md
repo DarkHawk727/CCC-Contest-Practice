@@ -6,7 +6,7 @@ This is a repository for all of my CCC Competition Practise attempts | All work 
 | CCC '21    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|      |      |      |      |      |      |      |
 | CCC '20    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|         |      |      |      |      |      |
 | CCC '19    |:heavy_check_mark:|      |      |         |         |      |      |      |      |      |
-| CCC '18    |      |      |      |         |         |      |      |      |
+| CCC '18    |:heavy_check_mark:|      |      |         |         |      |      |      |
 | CCC '17    |:heavy_check_mark:|:heavy_check_mark:|      |         |         |      |      |      |      |      |
 | CCC '16    |:heavy_check_mark:|      |      |         |         |      |      |      |      |      |
 | CCC '15    |      |      |      |         |         |      |      |      |      |      |
