@@ -6,10 +6,10 @@ public class Main {
         BufferedReader input = new BufferedReader (new InputStreamReader (System.in));
         String in = input.readLine();
         StringTokenizer st = new StringTokenizer(in);
-        int a = Integer.parseInt (st.nextToken ());;
-        int b = Integer.parseInt (st.nextToken ());;
-        int c = Integer.parseInt (st.nextToken ());;
-        int d = Integer.parseInt (st.nextToken ());;
+        int a = Integer.parseInt (st.nextToken ());
+        int b = Integer.parseInt (st.nextToken ());
+        int c = Integer.parseInt (st.nextToken ());
+        int d = Integer.parseInt (st.nextToken ());
         int x = a+b;
         int y = a+b+c;
         int z = a+b+c+d;
