@@ -1,5 +1,6 @@
 # CCC-Contest-Practise
-This is a repository for all of my CCC Competition Practise attempts | All work is done in Java
+This is a repository for all of my CCC Competition Practise attempts | ~All~ Most work is done in Java | The results are validated through DMOJ
+
 # Completed Contests
 |Contest Year|  J1  |  J2  |  J3  |  J4  |  J5  |  S1  |  S2  |  S3  |  S4  |  S5  |
 |------------|------|------|------|------|------|------|------|------|------|------|
