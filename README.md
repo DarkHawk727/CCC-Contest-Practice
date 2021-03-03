@@ -24,5 +24,5 @@ This is a repository for all of my CCC Competition Practise attempts | ~All~ Mos
 | CCC 2004    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|         |         |      |      |      |      |      |
 | CCC 2003    |      |      |      |         |         |      |      |      |      |      |
 | CCC 2002    |      |      |      |         |         |      |      |      |      |      |
-| CCC 2001    |      |      |      |         |         |      |      |      |      |      |
+| CCC 2001    |      |:heavy_check_mark:|      |         |         |      |      |      |      |      |
 | CCC 2000    |      |      |      |         |         |      |      |      |      |      |
