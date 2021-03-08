@@ -10,7 +10,7 @@ This is a repository for all of my CCC Competition Practise attempts | ~All~ Mos
 | CCC 2018    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|         |         |      |      |      |
 | CCC 2017    |:heavy_check_mark:|:heavy_check_mark:|      |         |         |      |      |      |      |      |
 | CCC 2016    |:heavy_check_mark:|      |      |         |         |      |      |      |      |      |
-| CCC 2015    |      |      |      |         |         |      |      |      |      |      |
+| CCC 2015    |      |      |      |         |         |:heavy_check_mark:|      |      |      |      |
 | CCC 2014    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|         |         |      |      |      |      |      |
 | CCC 2013    |:heavy_check_mark:|:heavy_check_mark:|      |         |         |      |      |      |      |      |
 | CCC 2012    |:heavy_check_mark:|:heavy_check_mark:|      |         |         |      |      |      |      |      |
