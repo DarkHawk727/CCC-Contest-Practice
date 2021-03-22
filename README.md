@@ -19,7 +19,7 @@ This is a repository for all of my CCC Competition Practise attempts | ~All~ Mos
 | CCC 2009    |:heavy_check_mark:|      |      |         |         |:heavy_check_mark:|      |      |      |      |
 | CCC 2008    |:heavy_check_mark:|:heavy_check_mark:|      |         |         |:heavy_check_mark:|      |      |      |      |
 | CCC 2007    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|         |         |      |      |      |      |      |
-| CCC 2006    |:heavy_check_mark:|      |      |         |         |      |      |      |      |      |
+| CCC 2006    |:heavy_check_mark:|      |      |         |         |      |:heavy_check_mark:|      |      |      |
 | CCC 2005    |:heavy_check_mark:|      |      |         |         |      |      |      |      |      |
 | CCC 2004    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|         |         |      |      |      |      |      |
 | CCC 2003    |      |      |      |         |         |      |      |      |      |      |
