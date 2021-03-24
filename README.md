@@ -1,5 +1,5 @@
 # CCC-Contest-Practise
-This is a repository for all of my CCC Competition Practise attempts | ~All~ Most work is done in Java | The results are validated through DMOJ
+This is a repository for all of my Canadian Computing Contest practise attempts | ~All~ Most work is done in Java | The results are validated through DMOJ | No editorials, sorry.
 
 # Completed Questions
 |Contest Year |  J1  |  J2  |  J3  |  J4  |  J5  |  S1  |  S2  |  S3  |  S4  |  S5:flushed:  |
