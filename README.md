@@ -26,3 +26,7 @@ This is a repository for all of my Canadian Computing Contest practise attempts 
 | CCC 2002    |      |:heavy_check_mark:|      |         |         |      |      |      |      |      |
 | CCC 2001    |      |:heavy_check_mark:|      |         |         |      |      |      |      |      |
 | CCC 2000    |      |      |      |         |         |      |      |      |      |      |
+| CCC 1999    |      |      |      |         |         |XXXXXX|XXXXXX|XXXXXX|XXXXXX|XXXXXX|
+| CCC 1998    |      |      |      |         |         |XXXXXX|XXXXXX|XXXXXX|XXXXXX|XXXXXX|
+| CCC 1997    |      |      |      |         |         |XXXXXX|XXXXXX|XXXXXX|XXXXXX|XXXXXX|
+| CCC 1996    |:heavy_check_mark:|      |      |         |         |XXXXXX|XXXXXX|XXXXXX|XXXXXX|XXXXXX|
