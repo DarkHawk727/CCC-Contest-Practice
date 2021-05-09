@@ -9,7 +9,7 @@ This is a repository for all of my Canadian Computing Contest practise attempts 
 | CCC 2019    |:heavy_check_mark:|:heavy_check_mark:|      |:heavy_check_mark:|         |:heavy_check_mark:|      |      |      |      |
 | CCC 2018    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|         |         |:heavy_check_mark:|      |      |
 | CCC 2017    |:heavy_check_mark:|:heavy_check_mark:|      |         |         |      |      |      |      |      |
-| CCC 2016    |:heavy_check_mark:|:heavy_check_mark:|      |         |:heavy_check_mark:|      |:heavy_check_mark:|      |      |      |
+| CCC 2016    |:heavy_check_mark:|:heavy_check_mark:|      |         |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|      |      |      |
 | CCC 2015    |:heavy_check_mark:|:heavy_check_mark:|      |         |         |:heavy_check_mark:|      |      |      |      |
 | CCC 2014    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|         |:heavy_check_mark:|      |      |      |      |
 | CCC 2013    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|         |         |      |      |      |      |      |
