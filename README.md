@@ -20,7 +20,7 @@ This is a repository for all of my Canadian Computing Contest practise attempts 
 | CCC 2008    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|         |         |:heavy_check_mark:|      |      |      |      |
 | CCC 2007    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|         |:heavy_check_mark:|      |      |      |      |
 | CCC 2006    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|         |         |      |:heavy_check_mark:|      |      |      |
-| CCC 2005    |:heavy_check_mark:|:heavy_check_mark:|      |         |         |:heavy_check_mark:|      |      |      |      |
+| CCC 2005    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|         |         |:heavy_check_mark:|      |      |      |      |
 | CCC 2004    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|         |         |      |      |      |      |      |
 | CCC 2003    |      |      |:heavy_check_mark:|         |         |:heavy_check_mark:|      |      |      |      |
 | CCC 2002    |:heavy_check_mark:|:heavy_check_mark:|      |:heavy_check_mark:|         |      |:heavy_check_mark:|      |      |      |
