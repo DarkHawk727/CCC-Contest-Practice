@@ -13,7 +13,7 @@ This is a repository for all of my Canadian Computing Contest practise attempts 
 | CCC 2015    |:heavy_check_mark:|:heavy_check_mark:|      |         |         |:heavy_check_mark:|      |      |      |      |
 | CCC 2014    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|         |:heavy_check_mark:|      |      |      |      |
 | CCC 2013    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|         |         |      |      |      |      |      |
-| CCC 2012    |:heavy_check_mark:|:heavy_check_mark:|      |:heavy_check_mark:|         |:heavy_check_mark:|      |      |      |      |
+| CCC 2012    |:heavy_check_mark:|:heavy_check_mark:|      |:heavy_check_mark:|         |:heavy_check_mark:|:heavy_check_mark:|      |      |      |
 | CCC 2011    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|         |         |:heavy_check_mark:|:heavy_check_mark:|      |      |      |
 | CCC 2010    |:heavy_check_mark:|      |         |         |      |      |:heavy_check_mark:|      |      |
 | CCC 2009    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|         |         |:heavy_check_mark:|      |      |      |      |
