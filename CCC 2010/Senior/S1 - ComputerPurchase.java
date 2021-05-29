@@ -8,9 +8,9 @@ public class Main {
         int value, firstValue = 0, secondValue = 0;
         String temp;
         String[] information;
-        
+
         int n = Integer.parseInt(input.readLine());
-        
+
         for (int i = 0; i < n; i++) {
             temp = String.valueOf(input.readLine());
             information = temp.split(" ");
@@ -25,12 +25,10 @@ public class Main {
                 secondValue = value;
                 second = name;
             }
-            
+
         }
-        if (n == 1) {
-            System.out.println(first);
-        } else {
-            System.out.println(first);
+        System.out.println(first);
+        if (n > 1) {
             System.out.println(second);
         }
     }
