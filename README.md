@@ -27,10 +27,10 @@ This is a repository for all of my Canadian Computing Contest practise attempts 
 | CCC 2006    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|         |         |:heavy_check_mark:|:heavy_check_mark:|      |      |      |
 | CCC 2005    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|         |         |:heavy_check_mark:|      |      |      |      |
 | CCC 2004    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|         |         |      |      |      |      |      |
-| CCC 2003    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|         |:heavy_check_mark:|:heavy_check_mark:|      |      |      |
-| CCC 2002    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|         |:heavy_check_mark:|:heavy_check_mark:|      |      |      |
+| CCC 2003    |:heavy_check_mark:|:ballot_box_with_check:|:heavy_check_mark:|:heavy_check_mark:|         |:heavy_check_mark:|:heavy_check_mark:|      |      |      |
+| CCC 2002    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|         |:ballot_box_with_check:|:heavy_check_mark:|      |      |      |
 | CCC 2001    |:heavy_check_mark:|:heavy_check_mark:|      |         |         |      |      |      |      |      |
-| CCC 2000    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|         |         |:heavy_check_mark:|      |      |      |      |
+| CCC 2000    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|         |         |:ballot_box_with_check:|      |      |      |      |
 | CCC 1999    |      |      |      |         |         | X | X | X | X | X |
 | CCC 1998    |:heavy_check_mark:|      |      |         |         | X | X | X | X | X |
 | CCC 1997    |      |      |      |         |         | X | X | X | X | X |
