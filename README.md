@@ -4,7 +4,7 @@ This is a repository for all of my Canadian Computing Contest practise attempts 
 | Symbol | Meaning |
 |--------|---------|
 | :heavy_check_mark: | Completed in Java only |
-| ✅ | Completed in Java AND Python |
+| :ballot_box_with_check: | Completed in Java AND Python |
 
 # Completed Questions
 |Contest Year |  J1  |  J2  |  J3  |  J4  |  J5  |  S1  |  S2  |  S3  |  S4  |  S5:flushed:  |
