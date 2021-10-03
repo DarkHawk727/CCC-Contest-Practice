@@ -1,5 +1,10 @@
 # CCC-Contest-Practise
-This is a repository for all of my Canadian Computing Contest practise attempts | ~All~ Most work is done in Java | The results are validated through DMOJ | No editorials, sorry.
+This is a repository for all of my Canadian Computing Contest practise attempts | ~All~ Most work is done in Java (I also switched to Python :P) | The results are validated through DMOJ | No editorials, sorry.
+## Legend
+| Symbol | Meaning |
+|--------|---------|
+| :heavy_check_mark: | Completed in Java only |
+| ✅ | Completed in Java AND Python |
 
 # Completed Questions
 |Contest Year |  J1  |  J2  |  J3  |  J4  |  J5  |  S1  |  S2  |  S3  |  S4  |  S5:flushed:  |
