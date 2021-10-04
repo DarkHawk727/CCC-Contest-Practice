@@ -5,6 +5,7 @@ This is a repository for all of my Canadian Computing Contest practise attempts 
 |--------|---------|
 | :heavy_check_mark: | Completed in Java only |
 | :ballot_box_with_check: | Completed in Java AND Python |
+| :white_check_mark: | Complreted in Python only |
 
 # Completed Questions
 |Contest Year |  J1  |  J2  |  J3  |  J4  |  J5  |  S1  |  S2  |  S3  |  S4  |  S5:flushed:  |
@@ -13,7 +14,7 @@ This is a repository for all of my Canadian Computing Contest practise attempts 
 | CCC 2020    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|         |      |      |      |      |      |
 | CCC 2019    |:heavy_check_mark:|:heavy_check_mark:|      |:heavy_check_mark:|         |:heavy_check_mark:|      |      |      |      |
 | CCC 2018    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|         |         |:heavy_check_mark:|      |      |
-| CCC 2017    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|         |         |      |      |      |      |      |
+| CCC 2017    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|         |         |:white_check_mark:|      |      |      |      |
 | CCC 2016    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|         |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|      |      |      |
 | CCC 2015    |:heavy_check_mark:|:heavy_check_mark:|      |         |         |:heavy_check_mark:|      |      |      |      |
 | CCC 2014    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|      |      |      |
