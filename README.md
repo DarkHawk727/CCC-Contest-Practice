@@ -5,7 +5,7 @@ This is a repository for all of my Canadian Computing Contest practise attempts 
 |--------|---------|
 | :heavy_check_mark: | Completed in Java only |
 | :ballot_box_with_check: | Completed in Java AND Python |
-| :white_check_mark: | Complreted in Python only |
+| :white_check_mark: | Completed in Python only |
 
 # Completed Questions
 |Contest Year |  J1  |  J2  |  J3  |  J4  |  J5  |  S1  |  S2  |  S3  |  S4  |  S5:flushed:  |
@@ -29,7 +29,7 @@ This is a repository for all of my Canadian Computing Contest practise attempts 
 | CCC 2005    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|         |         |:heavy_check_mark:|      |      |      |      |
 | CCC 2004    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|         |         |      |      |      |      |      |
 | CCC 2003    |:heavy_check_mark:|:ballot_box_with_check:|:heavy_check_mark:|:heavy_check_mark:|         |:heavy_check_mark:|:heavy_check_mark:|      |      |      |
-| CCC 2002    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|         |:ballot_box_with_check:|:heavy_check_mark:|      |      |      |
+| CCC 2002    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|         |:ballot_box_with_check:|:ballot_box_with_check:|      |      |      |
 | CCC 2001    |:heavy_check_mark:|:heavy_check_mark:|      |         |         |      |      |      |      |      |
 | CCC 2000    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|         |         |:ballot_box_with_check:|      |      |      |      |
 | CCC 1999    |      |      |      |         |         | X | X | X | X | X |
