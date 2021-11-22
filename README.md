@@ -34,5 +34,5 @@ This is a repository for all of my Canadian Computing Contest practise attempts 
 | CCC 2000    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|         |         |:ballot_box_with_check:|      |      |      |      |
 | CCC 1999    |      |      |      |         |         | X | X | X | X | X |
 | CCC 1998    |:heavy_check_mark:|      |      |         |         | X | X | X | X | X |
-| CCC 1997    |      |      |      |         |         | X | X | X | X | X |
+| CCC 1997    |:white_check_mark:|      |      |         |         | X | X | X | X | X |
 | CCC 1996    |:heavy_check_mark:|      |      |         |         | X | X | X | X | X |
